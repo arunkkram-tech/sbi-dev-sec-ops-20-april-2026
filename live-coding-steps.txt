@@ -1,0 +1,24 @@
+
+D:\vamz\sbi-dev-sec-ops-20-april-2026>cd D:\vamz\sbi-dev-sec-ops-20-april-2026
+
+D:\vamz\sbi-dev-sec-ops-20-april-2026>mvn clean package
+
+D:\vamz\sbi-dev-sec-ops-20-april-2026>mvn spring-boot:run
+
+Go to http://localhost:8080/swagger-ui.html
+
+
+	{
+  "email": "admin@sbi.com",
+  "password": "Admin@123"
+}
+ 
+
+
+
+
+
+
+
+
+
